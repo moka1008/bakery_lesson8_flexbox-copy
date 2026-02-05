@@ -82,7 +82,7 @@ header {
   text-align: center;
 }
 
-.shop-translation {
+.translation {
   font-size: 70px;
   margin-bottom: 20px;             /* ← ここ重要！ */
   color: #A2D2FF;
