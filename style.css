@@ -82,6 +82,13 @@ header {
   text-align: center;
 }
 
+.shop-translation {
+    font-size: 80px;
+  margin-bottom: 20px;             /* ← ここ重要！ */
+  color: #A2D2FF;
+  text-align: center;
+}
+
 /* ショップの文章と画像を囲う要素 */
 
 
