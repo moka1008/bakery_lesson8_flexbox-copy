@@ -62,7 +62,7 @@ header {
 
 
 .title-2 {
-  font-size: 200px;
+  font-size: 150px;
   padding-left: 15px;
   margin-bottom: 10px;
   color:#96CBFC;
@@ -75,7 +75,7 @@ header {
 }
 
 .shop-text {
-  font-size: 150px;
+  font-size: 100px;
   margin-top: 30px; 
   margin-bottom: 50px;             /* ← ここ重要！ */
   color: #A2D2FF;
