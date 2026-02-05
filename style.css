@@ -48,10 +48,14 @@ header {
 /* ===== お店紹介のスタイル ===== */
 /* セクション */
 .shop {
-  background-color: #ffffee; /* 背景の色 */
+  background-color: #ffffee;
   padding: 60px;
-  align-items: center;
-  height: 100%;
+
+  display: flex;
+  justify-content: center; /* 横の中央 */
+  align-items: center;     /* 縦の中央 */
+
+  min-height: 100vh;       /* 画面いっぱい */
 }
 
 /* h2見出し */
